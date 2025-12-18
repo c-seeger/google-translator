@@ -148,6 +148,9 @@ class LanguageList {
     'xh': 'Xhosa',
     'yi': 'Yiddish',
     'yo': 'Yoruba',
+    'zh': 'Mandarin',
+    'zh-cn': 'Chinese (Simplified)',
+    'zh-tw': 'Chinese (Traditional)',
     'zu': 'Zulu',
   };
 
